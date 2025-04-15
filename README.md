@@ -1,4 +1,4 @@
-## Hi, I'm Parker.
+# Hi, I'm Parker.
 ## About Me
 - 🎓 Pursuing a bachelor's in computer science at the **University of Houston**.
 - 🌱 Currently fine-tuning my skills in backend frameworks like Express and Flask to build deployable and efficient applications.
